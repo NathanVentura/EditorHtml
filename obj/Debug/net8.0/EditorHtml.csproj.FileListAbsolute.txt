@@ -1,0 +1,15 @@
+/home/nathanventura/Code/mini-projects/EditorHtml/obj/Debug/net8.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/home/nathanventura/Code/mini-projects/EditorHtml/obj/Debug/net8.0/EditorHtml.AssemblyInfoInputs.cache
+/home/nathanventura/Code/mini-projects/EditorHtml/obj/Debug/net8.0/EditorHtml.AssemblyInfo.cs
+/home/nathanventura/Code/mini-projects/EditorHtml/obj/Debug/net8.0/EditorHtml.csproj.CoreCompileInputs.cache
+/home/nathanventura/Code/mini-projects/EditorHtml/obj/Debug/net8.0/EditorHtml.sourcelink.json
+/home/nathanventura/Code/mini-projects/EditorHtml/bin/Debug/net8.0/EditorHtml
+/home/nathanventura/Code/mini-projects/EditorHtml/bin/Debug/net8.0/EditorHtml.deps.json
+/home/nathanventura/Code/mini-projects/EditorHtml/bin/Debug/net8.0/EditorHtml.runtimeconfig.json
+/home/nathanventura/Code/mini-projects/EditorHtml/bin/Debug/net8.0/EditorHtml.dll
+/home/nathanventura/Code/mini-projects/EditorHtml/bin/Debug/net8.0/EditorHtml.pdb
+/home/nathanventura/Code/mini-projects/EditorHtml/obj/Debug/net8.0/EditorHtml.dll
+/home/nathanventura/Code/mini-projects/EditorHtml/obj/Debug/net8.0/refint/EditorHtml.dll
+/home/nathanventura/Code/mini-projects/EditorHtml/obj/Debug/net8.0/EditorHtml.pdb
+/home/nathanventura/Code/mini-projects/EditorHtml/obj/Debug/net8.0/EditorHtml.genruntimeconfig.cache
+/home/nathanventura/Code/mini-projects/EditorHtml/obj/Debug/net8.0/ref/EditorHtml.dll

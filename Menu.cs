@@ -2,7 +2,7 @@ using System;
 
 namespace EditorHtml
 {
-   public void class Menu
+   public static class Menu
    {
       public static void Show()
       {
@@ -11,6 +11,31 @@ namespace EditorHtml
          Console.ForegroundColor = ConsoleColor.Black;
       }
 
+      public static void DrawScreen()
+      {
+         Console.Write("+");
+         for (int i = 0; i <= 30; i++)
+            Console.Write("-");
+
+         Console.Write("+");
+         Console.Write("\n");
+
+         for (int lines = 0; lines <= 10; lines++)
+         {
+            Console.Write("|");
+            for (int i = 0; i <= 30; i++)
+               Console.Write(" ");
+            Console.Write("|");
+            Console.Write("\n");
+         }
+
+         Console.Write("+");
+         for (int i = 0; i <= 30; i++)
+            Console.Write("-");
+
+         Console.Write("+");
+         Console.Write("\n");
+      }
    }
 
 }
